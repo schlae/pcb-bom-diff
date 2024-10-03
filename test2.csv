@@ -1,0 +1,6 @@
+Quantity, Designator, Description, Part Number
+1, C1, Hello World, CAP123
+2,"C2, C3", 'Hello', CAP456
+1,"Q1", "Hello", TRANS
+2,"Q2, Q3", "Hello", TRANS
+1,"T1", "asd", lol
